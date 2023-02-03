@@ -17,6 +17,11 @@ Las acentuaciones se hacen con Alt Gr + Letra a acentuar
 u = Alt Gr + u
 ```
 
+## Compatibilidad
+
+Compatible con Windows 10 y Windows 11.
+Probado en Windows 11 Home.
+
 ## Modificación
 
 Puedes modificar el layout si deseas personalizarlo a tu gusto y necesidad. En el repositorio se incluye el archivo  `USMX.klc` que podrás usar como punto de partida en conjunto con **Microsoft Keyboard Layout Creator (MSKLC)**
